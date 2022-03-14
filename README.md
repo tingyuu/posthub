@@ -1,4 +1,6 @@
-# posthub
+![blockchain](https://www.posthub.cn/img/product/01.png "PostHub")
+
+# PostHub
 一个类似Postman的免费中文版API调试工具，调试API时可自动生成文档，享受高效的API调试及文档生成过程。
 
 [官网](http://www.posthub.cn)
